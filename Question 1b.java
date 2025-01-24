@@ -7,13 +7,13 @@ public class NigeriaFlagnextedLoop {
 
         for (int i = 0; i < height; i++) {
             for (int j = 0; j < width; j++) {
-                if (j == 4 || j==5 ||j==6 || j==7) { // Middle columns for white stripe
+                if (j == 4 || j==5 ||j==6 || j==7) { 
                     System.out.print("*");
                 } else {
                     System.out.print("=");
                 }
             }
-            System.out.println(); // Move to the next line
+            System.out.println(); 
         }
     }
 }
