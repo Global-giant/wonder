@@ -1,5 +1,5 @@
-
 import java.util.Scanner;
+import java.util.Arrays;
 public class ArrayInput {
     public static void main(String[] args) {
         String[]userInputs = new String[10];

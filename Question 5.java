@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class TwoDArray {
+import java.util.Arrays;
+public class twodarray {
     public static void main(String[] args) {
         String[][] userInputs = new String[10][10];
         Scanner scanner = new Scanner(System.in);
